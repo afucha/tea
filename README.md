@@ -4,6 +4,9 @@
 
 ![](weixin/assets/images/qrcode.jpg)
 
+* 杭州西湖龙井，九曲红梅，安吉白茶，杭州茶农正宗直供，没有中间商翻倍抬价，按需定制，全球包邮。关注微信公众号：李阿福茶铺，随机赠送西湖龙井！
+* Hangzhou West Lake Longjing Tea, Tea Farmers' Authentic Supply. Using WeiChat to follow: 李阿福茶铺, you will got gifts!
+
 ## 产品列表
 
 |产品名   |  等级       | 价格（斤）|
