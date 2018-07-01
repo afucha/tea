@@ -26,3 +26,4 @@
 
 * 扫二维码加入支付宝蚂蚁森林，你种树，我送茶：
 
+![](donates/assets/images/qrcode.jpg)
