@@ -24,7 +24,7 @@
 
 * 合器生茶礼盒 (1）
 
-![](weixin/assets/images/packages/合器生茶.png)
+![](weixin/assets/images/packages/合器生茶.jpeg)
 
 * 牛皮纸_蓝色礼盒（4）
 
