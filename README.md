@@ -2,6 +2,7 @@
 
 关注微信公众号，送茶：
 
+![](weixin/assets/images/qrcode.jpg)
 
 ## 产品列表
 
