@@ -16,11 +16,15 @@
 
 ## 包装选择
 
-### 礼盒
+### 礼盒（礼盒价格私聊）
 
 * 草木间礼盒 (2）
 
 ![](weixin/assets/images/packages/草木间礼盒.png)
+
+* 合器生茶礼盒 (1）
+
+![](weixin/assets/images/packages/合器生茶.png)
 
 * 牛皮纸_蓝色礼盒（4）
 
