@@ -1,6 +1,7 @@
 # 李阿福茶铺
 
 关注微信公众号，送茶：
+(Using WeiChat to follow)
 
 ![](weixin/assets/images/qrcode.jpg)
 
