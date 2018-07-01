@@ -10,13 +10,13 @@
 
 ## 产品列表
 
-|产品名   |  等级       | 价格（斤）|
+|产品名(Product)   |  等级(Class)       | 价格(元/斤）Price(Chinese Yuan/kg)|
 | ---    |  ---       |  ---     |
-|西湖龙井 | 特级明前头茶 | 2800     |
-|西湖龙井 | 明前龙井     | 1400    |
-|西湖龙井 | 雨前龙井     | 600     |
-|九曲红梅 | 特级         | 800     |
-|安吉白茶 | 特级         | 800     |
+|西湖龙井(West Lake Longjing Tea) | 特级明前头茶(Superfine Pre-ming) | 2800     |
+|西湖龙井(West Lake Longjing Tea)  | 明前龙井(First-class Pre-ming)     | 1400    |
+|西湖龙井(West Lake Longjing Tea)  | 雨前龙井(First-class After-ming)      | 600     |
+|九曲红梅(West Lake Black Tea)  | 特级 (Superfine)        | 800     |
+|安吉白茶(Anji White Tea) | 特级 (Superfine)        | 800     |
 
 ## 包装选择
 
